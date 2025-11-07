@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@vercel/kv": "^3.0.0",
-    "pnpm": "^10.18.3"
-  }
-}
